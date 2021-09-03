@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 100%;
+  }
+  
+.img {
+    width: 1000px;
+    position: absolute;
+    z-index: -1;
+}
+
+.smartie {
+    position: absolute;
+    text-align: center;
+}
+
+.p {
+    text-align: center;
+}
+
